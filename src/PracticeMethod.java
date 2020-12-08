@@ -7,6 +7,7 @@ public class PracticeMethod {
             System.out.println("THis is method!!");
             System.out.println("MEthod is a block of code");
             System.out.println("How would you call this method?");
+            System.out.println("love you helen");
         }
         // return w/o parameter
     public static int dome(){
